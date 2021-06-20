@@ -1,5 +1,5 @@
 ## Hello there 👋
-My name is Ole, I am student from north rhine westphalia, Germany. I'm working on differet Projects in Javascript and Python (Maybe I'll learn some new programming languages later). Some of my Projects you can see below.
+My name is Ole, I'm a student from north rhine westphalia, Germany. I'm working on differet Projects in Javascript and Python (Maybe I'll learn some new programming languages later). Some of my Projects you can see below.
 
 ### Some stats about my GitHub Activity/ Profile
 ![jateute's github stats](https://github-readme-stats.vercel.app/api?username=jateute&count_private=true&show_icons=true&theme=dark)
