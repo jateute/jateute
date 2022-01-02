@@ -5,7 +5,7 @@ My name is Ole, I'm a student from north rhine westphalia, Germany. I'm working 
 ![jateute's github stats](https://github-readme-stats.vercel.app/api?username=jateute&count_private=true&show_icons=true&theme=dark)
 
 ### Contact
-📫 You can reach me on Discord: ja.teute#7739
+📫 You can reach me on Discord: jateute#7739
 <!--
 **jateute/jateute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
