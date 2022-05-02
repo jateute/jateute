@@ -3,7 +3,6 @@ My name is Ole, I'm a student from north rhine westphalia, Germany. I'm working 
 
 ### Some stats about my GitHub Activity/ Profile
 ![jateute's github stats](https://github-readme-stats.vercel.app/api?username=jateute&count_private=true&show_icons=true&theme=dark)
-[![wakatime](https://wakatime.com/badge/user/431e9cc4-66f0-45be-8041-a28c39badb37.svg)](https://wakatime.com/@431e9cc4-66f0-45be-8041-a28c39badb37)
 
 ### Contact
 📫 You can reach me on Discord: jateute#7739
