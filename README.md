@@ -4,6 +4,9 @@ My name is Ole, I'm a student from north rhine westphalia, Germany. I'm working 
 ### Some stats about my GitHub Activity/ Profile
 ![jateute's github stats](https://github-readme-stats.vercel.app/api?username=jateute&count_private=true&show_icons=true&theme=dark)
 
+### Badges
+[![@jateute's Holopin board](https://holopin.me/jateute)](https://holopin.io/@jateute)
+
 ### Contact
 📫 You can reach me on Discord: jateute#7739
 <!--
