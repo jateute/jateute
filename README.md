@@ -6,6 +6,7 @@ My name is Ole, I'm a student from north rhine westphalia, Germany. I'm working 
 
 ### Badges
 [![@jateute's Holopin board](https://holopin.me/jateute)](https://holopin.io/@jateute)
+[![wakatime](https://wakatime.com/badge/user/431e9cc4-66f0-45be-8041-a28c39badb37.svg)](https://wakatime.com/@431e9cc4-66f0-45be-8041-a28c39badb37)
 
 ### Contact
 📫 You can reach me on Discord: jateute#7739
