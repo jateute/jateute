@@ -9,7 +9,7 @@ My name is Ole, I'm a student from north rhine westphalia, Germany. I'm working 
 [![@jateute's Holopin board](https://holopin.me/jateute)](https://holopin.io/@jateute)
 
 ### Contact
-📫 You can reach me on Discord: jateute#7739
+📫 You can reach me on Discord: jateute
 <!--
 **jateute/jateute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
